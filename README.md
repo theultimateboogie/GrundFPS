@@ -40,3 +40,12 @@ Cutting Edge
 ========
 Want to try a Cutting Edge version of GrundFPS (very unstable) right now? Go to http://github.com/theultimateboogie/GrundFPS_CuttingEdge and follow the instructions!
 Please note: Cutting Edge is not the final product. Many features may be added or removed over time. Cutting Edge is nowhere near the final product.
+
+Cutting Edge is basically proof that we have done any work on this project at all.
+
+Thanks
+========
+
+Thanks to Valve, for making the great Source engine and releasing the SDK to the public along with source code to make mods.
+Thanks to Wazanator for helping out with things that I didn't know about/how to do.
+Thanks to Gaben for being magical.
