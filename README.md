@@ -28,7 +28,7 @@ Yes, we need someone to host, actually. Contact me at wrenched@rbaa.site.nfoserv
 
 Website
 ========
-http://GrundFPS.tk/
+http://theultimateboogie.github.io/grundfps
 
 Current Status
 ========
